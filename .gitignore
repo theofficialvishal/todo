@@ -3,6 +3,7 @@ node_modules/
 
 # Production build outputs
 client/dist/
+client/.vite/
 dist/
 
 # Environment and secret files
