@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Production build outputs
+client/dist/
+dist/
+
+# Environment and secret files
+.env
+.env.local
+
+# OS & IDE generated files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
